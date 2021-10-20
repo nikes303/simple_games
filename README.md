@@ -17,5 +17,9 @@ A semester-3 project named "Simple Games" contains some simple and easy games. T
 - [Tulsi Lukhi](https://github.com/Tulsi011)
 - [Parangi Rathod](https://github.com/Parangi-27)
 
+## Note
+
+It is a partial project. Hence the complete project will update next month.
+
 
   
