@@ -1,1 +1,45 @@
 
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&display=swap');
+.title1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0.5em;
+    background-color:black;
+
+   
+}
+
+
+.fa-arrow-circle-left{
+    
+    background:linear-gradient(-45deg,#b504c5b6,#ff0077);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    cursor: pointer;
+    margin-top: 0.5em;
+    margin-left: 0.4em;
+}
+
+.title1 .fa-arrow-circle-left:hover{
+    background: linear-gradient(-45deg,#4ff1f1,#fded09);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    transition: all 0.3s ease;
+}
+
+.fa-arrow-circle-right{
+    
+    background:linear-gradient(-45deg,#b504c5b6,#ff0077);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    margin-left:22em;
+    margin-top: 0.5em;
+    cursor: pointer;   
+}
+
+.title1 .fa-arrow-circle-right:hover{
+    background: linear-gradient(-45deg,#4ff1f1,#fded09);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    transition: all 0.3s ease;
+}
