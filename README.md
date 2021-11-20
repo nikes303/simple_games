@@ -5,7 +5,7 @@ A semester-3 project named "Simple Games" contains some simple and easy games. T
   
 ## Features
 
-- Total 4 various games 
+- Total 4 various & easy games 
 1. Tic-Tac-Toe 
 2. Word Scramble Game
 3. Rock Paper Scissor
