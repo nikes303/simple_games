@@ -21,7 +21,6 @@ A semester-3 project named "Simple Games" contains some simple and easy games. T
 
 [Watch demo video here](https://drive.google.com/drive/folders/1CyE9Myn0qcnlToZr-gp3zXVnyqzIlapQ?usp=sharing)
 
-
-
-
+## Note
+This created for our Sem-3 Project.
   
