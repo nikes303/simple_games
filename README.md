@@ -6,10 +6,10 @@ A semester-3 project named "Simple Games" contains some simple and easy games. T
 ## Features
 
 - Total 4 various games 
-- Easy to Play games
-- Good platform
-- Dark Theme
-
+1. Tic-Tac-Toe 
+2. Word Scramble Game
+3. Rock Paper Scissor
+4. word Typing Game
   
 ## Project Made By
 
@@ -19,12 +19,9 @@ A semester-3 project named "Simple Games" contains some simple and easy games. T
 
 ## Project Demo Link
 
-[Watch demo video here](https://drive.google.com/file/d/1H7tcvm_JSfp_sA3Ka9PMvAXu9GyVo5Er/view?usp=sharing)
+[Watch demo video here](https://drive.google.com/drive/folders/1CyE9Myn0qcnlToZr-gp3zXVnyqzIlapQ?usp=sharing)
 
 
-## Note
-
-It is a partial project. Hence the complete project will update next month.
 
 
   
