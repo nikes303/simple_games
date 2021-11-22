@@ -9,7 +9,7 @@ A semester-3 project named "Simple Games" contains some simple and easy games. T
 1. Tic-Tac-Toe 
 2. Word Scramble Game
 3. Rock Paper Scissor
-4. word Typing Game
+4. Word Typing Game
   
 ## Project Made By
 
